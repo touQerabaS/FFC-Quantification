@@ -19,7 +19,7 @@ Filiform corrosion (FFC) is an insidious degradation phenomenon characterized by
 
 ## Key Features
 
-- 🎯 **High Accuracy**: Achieves 87.1% accuracy, 0.93 Dice coefficient, and 0.83 IoU
+- 🎯 **High Accuracy**: Achieves 87.1% accuracy, 0.90 Dice coefficient, and 0.83 IoU
 - 📏 **Precise Measurement**: Filament length measurement with <1% error margin
 - ⚡ **Efficient Processing**: Optimized for real-time corrosion assessment
 - 🔧 **Modular Design**: Easy to extend and customize for different applications
@@ -168,7 +168,7 @@ for filament in results:
 |-------|----------|------|----------|------|-----|
 | U-Net | VGG-19 | Focal | 83% | 0.92 | 0.81 |
 | FPN | InceptionV4 | BCE | 83% | 0.91 | 0.82 |
-| **RustNet** | **ResNet-34** | **Focal** | **87%** | **0.93** | **0.83** |
+| **RustNet** | **ResNet-34** | **Focal** | **87%** | **0.90** | **0.83** |
 
 ## Pipeline Workflow
 
