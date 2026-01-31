@@ -220,7 +220,7 @@ L(B_i) = Σ sqrt((x_j - x_i)² + (y_j - y_i)²)
 
 ## Related Work
 
-- [RustNet: Automated Rust Detection](https://github.com/touQerabaS/rustnet) - Original RustNet architecture
+- [RustNet: Automated Rust Detection](https://link.springer.com/article/10.1007/s43452-025-01312-5) - Original RustNet architecture
 - [U-Net](https://arxiv.org/abs/1505.04597) - Convolutional Networks for Biomedical Image Segmentation
 - [FPN](https://arxiv.org/abs/1612.03144) - Feature Pyramid Networks for Object Detection
 
