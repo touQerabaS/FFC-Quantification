@@ -206,7 +206,7 @@ L(B_i) = Σ sqrt((x_j - x_i)² + (y_j - y_i)²)
 - **Training Accuracy**: 87.1%
 - **Validation Loss**: 0.16
 - **Mask Loss**: 0.1
-- **Dice Coefficient**: 0.93
+- **Dice Coefficient**: 0.90
 - **IoU Score**: 0.83
 
 ### Measurement Accuracy
