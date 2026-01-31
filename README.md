@@ -6,7 +6,7 @@
 
 A robust deep learning framework for automatic detection, segmentation, and quantification of Filiform Corrosion (FFC) using advanced image processing and segmentation-based algorithms.
 
-![Framework Overview](media/Fig 1.tif)
+![Framework Overview](media/Fig 1.png)
 
 ## Overview
 
